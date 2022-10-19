@@ -1,4 +1,4 @@
-﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="7b0e6c39-0536-429e-a898-9bf651faf138" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="fe0855ec-6a92-4c34-af2c-7c88d5a802d3" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
   <ID>Clients</ID>
   <Name>Clients</Name>
   <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
@@ -8,7 +8,7 @@
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
       <Value>
         <dds xmlns="">
-          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="4" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-2193" scrolltop="-387" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="7885" y="10583" backcolor="16777215" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="8" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-1085" scrolltop="275" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="6438" y="12788" backcolor="16777215" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="1" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
             <font>
               <ddsxmlobjectstreamwrapper binary="01000000900180380100065461686f6d61" />
             </font>
@@ -19,7 +19,7 @@
           <layoutmanager>
             <ddsxmlobj />
           </layoutmanager>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="DimGeographie" left="20" top="6757" logicalid="1" controlid="1" masterid="0" hint1="0" hint2="0" width="3000" height="2593" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="DimGeographie" left="303" top="5451" logicalid="4" controlid="1" masterid="0" hint1="0" hint2="0" width="3000" height="2593" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e0000b80b0000210a0000" />
             </control>
@@ -30,7 +30,7 @@
             </layoutobject>
             <shape groupshapeid="0" groupnode="0" />
           </ddscontrol>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="DimClients" left="20" top="0" logicalid="2" controlid="2" masterid="0" hint1="0" hint2="0" width="3000" height="4357" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="DimClients" left="20" top="0" logicalid="5" controlid="2" masterid="0" hint1="0" hint2="0" width="3000" height="4357" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e0000b80b000005110000" />
             </control>
@@ -41,7 +41,7 @@
             </layoutobject>
             <shape groupshapeid="0" groupnode="0" />
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="1121" top="4057" logicalid="3" controlid="3" masterid="0" hint1="0" hint2="0" width="799" height="3200" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="304" top="4057" logicalid="6" controlid="3" masterid="0" hint1="0" hint2="0" width="1366" height="1894" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
                 <polyline endtypedst="6" endtypesrc="3" usercolor="0" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -54,9 +54,13 @@
                 <property name="VisibleAP" value="0" vartype="3" />
               </ddsxmlobj>
             </layoutobject>
-            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="1" destid="2" sourceattachpoint="4" destattachpoint="5" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
-              <point x="1520" y="6757" />
-              <point x="1520" y="4357" />
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="1" destid="2" sourceattachpoint="0" destattachpoint="3" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+              <point x="703" y="5451" />
+              <point x="703" y="4381" />
+              <point x="1370" y="4381" />
+              <point x="1370" y="4781" />
+              <point x="970" y="4781" />
+              <point x="970" y="4357" />
             </connector>
           </ddscontrol>
         </dds>
@@ -76,11 +80,11 @@
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
-      <Value>-2193</Value>
+      <Value>-1085</Value>
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
-      <Value>-387</Value>
+      <Value>275</Value>
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
@@ -102,16 +106,17 @@
             <Shape Id="Id" Expanded="false">
               <Attributes>
                 <Attribute Id="Id" />
+                <Attribute Id="Language" />
               </Attributes>
               <Position x="20" y="20" />
             </Shape>
-            <Shape Id="Dim Geographie - Id" Expanded="false">
+            <Shape Id="City" Expanded="false">
               <Attributes>
-                <Attribute Id="Dim Geographie - Id" />
+                <Attribute Id="City" />
               </Attributes>
               <Position x="226" y="20" />
             </Shape>
-            <Shape Id="Country" Expanded="false">
+            <Shape Id="Country" Expanded="true">
               <Attributes>
                 <Attribute Id="Country" />
               </Attributes>
@@ -124,167 +129,145 @@
   </Annotations>
   <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
   <State>Unprocessed</State>
-  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="b54f50a1-8a23-4282-9570-09be17763737">
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="c758fb6b-ddb9-4649-8e91-abe7ba48cfdc">
     <DataSourceViewID>Mediazon DWH</DataSourceViewID>
   </Source>
   <UnknownMember>Visible</UnknownMember>
-  <ErrorConfiguration dwd:design-time-name="a6892a58-3fa8-4f7d-a72c-5f8482425a51">
+  <ErrorConfiguration dwd:design-time-name="526e5e62-aa08-452a-a486-c993f2a07d2e">
     <KeyNotFound>ReportAndStop</KeyNotFound>
     <KeyDuplicate>ReportAndStop</KeyDuplicate>
     <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
   </ErrorConfiguration>
   <CurrentStorageMode>Molap</CurrentStorageMode>
   <Attributes>
-    <Attribute dwd:design-time-name="75f60873-1ccc-4673-8668-0699fdac710d">
+    <Attribute dwd:design-time-name="806c5e14-226f-44e6-91c7-76caa1f880e2">
       <ID>Id</ID>
-      <Name>Id</Name>
+      <Name>Client</Name>
       <Usage>Key</Usage>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="73d7c968-f349-424c-b7f0-c55ccb27a3c7">
+        <KeyColumn dwd:design-time-name="80346b7b-1973-41c9-8e81-472cde8c7ce6">
           <DataType>Integer</DataType>
-          <NullProcessing>UnknownMember</NullProcessing>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="62e69d56-f78b-48a6-ac87-691509dcca38">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="cd973df8-8e71-47aa-8930-4c3c134c9eac">
             <TableID>dbo_DimClients</TableID>
             <ColumnID>id</ColumnID>
           </Source>
         </KeyColumn>
       </KeyColumns>
+      <NameColumn dwd:design-time-name="e20d182b-5baf-4975-a2b4-67926c558512">
+        <DataType>WChar</DataType>
+        <Source xsi:type="ColumnBinding" dwd:design-time-name="a8984170-b074-4bbd-bc98-184cdc3ca629">
+          <TableID>dbo_DimClients</TableID>
+          <ColumnID>full_name</ColumnID>
+        </Source>
+      </NameColumn>
       <AttributeRelationships>
-        <AttributeRelationship dwd:design-time-name="0085e9f0-950c-44ab-bbc9-5674c65d22bf">
-          <AttributeID>Dim Geographie - Id</AttributeID>
-          <Name>Dim Geographie - Id</Name>
-        </AttributeRelationship>
-        <AttributeRelationship dwd:design-time-name="f863ffc4-df49-4337-a00e-a9de36beabc0">
+        <AttributeRelationship dwd:design-time-name="4dd7dc24-1ae9-468e-9308-1a2752c7d2c6">
           <AttributeID>City</AttributeID>
-          <Name>City</Name>
+          <Name>Ville</Name>
         </AttributeRelationship>
-        <AttributeRelationship dwd:design-time-name="4b2cf964-eca9-41a0-a9b8-9ade659f177e">
-          <AttributeID>State</AttributeID>
-          <Name>State</Name>
-        </AttributeRelationship>
-        <AttributeRelationship dwd:design-time-name="3a8de431-cfbc-4ebf-b61f-cc18a19e9acd">
-          <AttributeID>Zip</AttributeID>
-          <Name>Zip</Name>
+        <AttributeRelationship dwd:design-time-name="e975992d-16af-44ec-9e59-bc421073d15d">
+          <AttributeID>Language</AttributeID>
+          <Name>Langue</Name>
         </AttributeRelationship>
       </AttributeRelationships>
-      <OrderBy>Key</OrderBy>
       <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
     </Attribute>
-    <Attribute dwd:design-time-name="19eee5e5-7014-4e85-bec3-83d63859f2d7">
-      <ID>Dim Geographie - Id</ID>
-      <Name>Geographie - Id</Name>
-      <KeyColumns>
-        <KeyColumn dwd:design-time-name="f877d884-68ce-4c3c-8ecc-b84b3a5bb1e7">
-          <DataType>Integer</DataType>
-          <NullProcessing>UnknownMember</NullProcessing>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="bb54f13e-4e96-4f6c-9be2-e7e244603dbb">
-            <TableID>dbo_DimGeographie</TableID>
-            <ColumnID>id</ColumnID>
-          </Source>
-        </KeyColumn>
-      </KeyColumns>
-      <AttributeRelationships>
-        <AttributeRelationship dwd:design-time-name="94ca37c6-a365-44a8-9e74-89c74101f2b4">
-          <AttributeID>Country</AttributeID>
-          <Name>Country</Name>
-        </AttributeRelationship>
-      </AttributeRelationships>
-      <OrderBy>Key</OrderBy>
-      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
-      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
-    </Attribute>
-    <Attribute dwd:design-time-name="77b1a6d5-5e67-459d-bb44-5d3c1dadc86a">
+    <Attribute dwd:design-time-name="fb2b5390-df4f-4ee8-8d42-b0c469ff7fe3">
       <ID>Country</ID>
-      <Name>Country</Name>
+      <Name>Pays</Name>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="3e040ed5-f2ff-4562-8054-35b5fad362b0">
+        <KeyColumn dwd:design-time-name="b480be5c-69d0-4708-9e97-c8f58f14877f">
           <DataType>WChar</DataType>
           <DataSize>2</DataSize>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="40eb8f46-fd2f-48f6-9f17-86a31c53106d">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="3631d99d-9532-45a5-95e0-10eeb51d3456">
             <TableID>dbo_DimGeographie</TableID>
             <ColumnID>country</ColumnID>
           </Source>
         </KeyColumn>
       </KeyColumns>
-      <NameColumn dwd:design-time-name="5bc80c57-c75d-4722-896f-bbde448f8df8">
+      <NameColumn dwd:design-time-name="a5735bfe-89b7-49c2-b9d6-d0d56916294b">
         <DataType>WChar</DataType>
         <DataSize>2</DataSize>
-        <Source xsi:type="ColumnBinding" dwd:design-time-name="cb20fe07-4e50-43ee-9f97-033236791539">
+        <Source xsi:type="ColumnBinding" dwd:design-time-name="a4040635-74a8-4af0-8a22-d4470ac8c2ac">
           <TableID>dbo_DimGeographie</TableID>
           <ColumnID>country</ColumnID>
         </Source>
       </NameColumn>
-      <OrderBy>Key</OrderBy>
-      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
       <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
     </Attribute>
-    <Attribute dwd:design-time-name="22aac0b5-54d8-463d-b1d5-7015bb3df670">
+    <Attribute dwd:design-time-name="20d34178-b4c9-4cf1-9d68-8bae9ffa9fcb">
       <ID>City</ID>
-      <Name>City</Name>
+      <Name>Ville</Name>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="bc144bd7-f146-4251-9fc0-ab416142513f">
+        <KeyColumn dwd:design-time-name="26103282-c291-4429-b225-909baad56e16">
           <DataType>WChar</DataType>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="d6e8acd2-4b87-4a5e-946a-ad5dc3bcce20">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="0791aa65-c814-402b-8c58-cabfce822916">
             <TableID>dbo_DimGeographie</TableID>
             <ColumnID>city</ColumnID>
           </Source>
         </KeyColumn>
       </KeyColumns>
+      <NameColumn dwd:design-time-name="c8178194-1157-4c68-997c-3c9920f9f038">
+        <DataType>WChar</DataType>
+        <Source xsi:type="ColumnBinding" dwd:design-time-name="3e5fe45e-4fbb-4e3c-9d80-7a8537964e61">
+          <TableID>dbo_DimGeographie</TableID>
+          <ColumnID>city</ColumnID>
+        </Source>
+      </NameColumn>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="48501087-e495-4377-bdcf-7986039675eb">
+          <AttributeID>Country</AttributeID>
+          <RelationshipType>Rigid</RelationshipType>
+          <Name>Pays</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
       <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
     </Attribute>
-    <Attribute dwd:design-time-name="b86c8707-ab57-438e-be60-14766c17ff36">
-      <ID>State</ID>
-      <Name>State</Name>
+    <Attribute dwd:design-time-name="6f5a5ba2-5dbc-43c4-8c87-4068c7ecef43">
+      <ID>Language</ID>
+      <Name>Langue</Name>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="6695ffd8-2a36-4fc5-9440-37971e5138db">
-          <DataType>WChar</DataType>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="76ed09e8-4518-41e7-8c9a-9d8fad1ec520">
-            <TableID>dbo_DimGeographie</TableID>
-            <ColumnID>state</ColumnID>
+        <KeyColumn dwd:design-time-name="a9bc435c-1605-4214-9b95-e9012ba01c90">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="03bf1940-df87-46c6-8060-9eec9572057f">
+            <TableID>dbo_DimClients</TableID>
+            <ColumnID>language</ColumnID>
           </Source>
         </KeyColumn>
       </KeyColumns>
-      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
-      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
-    </Attribute>
-    <Attribute dwd:design-time-name="f08dc274-417c-460d-a235-60e6fabd258c">
-      <ID>Zip</ID>
-      <Name>Zip</Name>
-      <KeyColumns>
-        <KeyColumn dwd:design-time-name="08c49179-de2f-4da3-9134-6f870b895ac8">
-          <DataType>WChar</DataType>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="8a08eae4-82d0-450c-b9f8-8ea123f55f22">
-            <TableID>dbo_DimGeographie</TableID>
-            <ColumnID>zip</ColumnID>
-          </Source>
-        </KeyColumn>
-      </KeyColumns>
+      <NameColumn dwd:design-time-name="0a804de7-36de-4c51-88b8-afd79dbe8dff">
+        <DataType>WChar</DataType>
+        <Source xsi:type="ColumnBinding" dwd:design-time-name="ea63e24c-0c47-486d-bc48-c28ec39ef8af">
+          <TableID>dbo_DimClients</TableID>
+          <ColumnID>language</ColumnID>
+        </Source>
+      </NameColumn>
       <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
     </Attribute>
   </Attributes>
   <Hierarchies>
-    <Hierarchy dwd:design-time-name="de214363-5e29-4c5e-81d5-f4d3fdaf6cbe">
+    <Hierarchy dwd:design-time-name="17465d48-b9c8-405a-ba82-5d9effa85164">
       <ID>Hierarchy</ID>
-      <Name>Hierarchy</Name>
+      <Name>Client par ville</Name>
       <Levels>
-        <Level dwd:design-time-name="adc7b68e-f044-4960-9613-2b866672915e">
-          <ID>Country</ID>
-          <Name>Country</Name>
+        <Level dwd:design-time-name="9619e9fd-5a0d-4b3b-83de-9a46eb34f902">
+          <ID>Pays</ID>
+          <Name>Pays</Name>
           <SourceAttributeID>Country</SourceAttributeID>
         </Level>
-        <Level dwd:design-time-name="5b6eb0ee-f614-4533-a3c0-b7d4574cdc66">
-          <ID>Zip</ID>
-          <Name>Zip</Name>
-          <SourceAttributeID>Zip</SourceAttributeID>
-        </Level>
-        <Level dwd:design-time-name="fba2b609-c646-428e-8e7b-9de0b4ffcf2f">
-          <ID>City</ID>
-          <Name>City</Name>
+        <Level dwd:design-time-name="9752f1fe-fb24-4248-9d5c-a8909902180e">
+          <ID>Ville</ID>
+          <Name>Ville</Name>
           <SourceAttributeID>City</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="809c4ef8-6c28-4b99-aa79-169475d222c2">
+          <ID>Client</ID>
+          <Name>Client</Name>
+          <SourceAttributeID>Id</SourceAttributeID>
         </Level>
       </Levels>
     </Hierarchy>
